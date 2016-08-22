@@ -4,7 +4,7 @@ This theme was built with [Base16 Builder](https://github.com/chriskempson/base1
 
 ## Installation
 + On iTerm2, go to Preferences > Profiles > Colors
-+ Click on Load Presets > Import and import your favorite theme from this repo
++ Click on Color Presets > Import and import your favorite theme from this repo
 + Load the theme by clicking on Load Presets and selecting it
 
 ![Base16 Default iTerm2](https://raw.github.com/chriskempson/base16-iterm2/master/base16-iterm2.png)
