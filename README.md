@@ -24,7 +24,7 @@ hand if you'd like to keep your 16 ANSI colors intact, go ahead and use
 the 256 color variations but please note you'll need to modify some of
 the 256 colorspace with the [Base16 Shell][2] script.
 
-[1]: https://github.com/base16-project/home
-[2]: https://github.com/base16-project/base16-shell
+[1]: https://github.com/tinted-theming/home
+[2]: https://github.com/tinted-theming/base16-shell
 [3]: screenshots/base16-iterm2.png
 [4]: screenshots/base16-iterm2-256.png
