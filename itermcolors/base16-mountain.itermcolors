@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     Base16 Mountain
-    Scheme author: gnsfujiwara (https://github.com/gnsfujiwara) based on Mountain Theme (https://github.com/mountain-theme/Mountain)
+    Scheme author: gnsfujiwara (https://github.com/gnsfujiwara)
     Template author: Tinted Theming (https://github.com/tinted-theming)
     semanticClass: theme.base16.mountain
 -->
@@ -90,11 +90,11 @@
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>0.7921569</real>
+		<real>0.9411765</real>
 		<key>Green Component</key>
-		<real>0.7921569</real>
+		<real>0.9411765</real>
 		<key>Red Component</key>
-		<real>0.7921569</real>
+		<real>0.9411765</real>
 	</dict>
 	<key>Ansi 2 Color</key>
 	<dict>
@@ -156,11 +156,11 @@
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>0.9411765</real>
+		<real>0.7921569</real>
 		<key>Green Component</key>
-		<real>0.9411765</real>
+		<real>0.7921569</real>
 		<key>Red Component</key>
-		<real>0.9411765</real>
+		<real>0.7921569</real>
 	</dict>
 	<key>Ansi 8 Color</key>
 	<dict>
@@ -200,22 +200,22 @@
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>0.9411765</real>
+		<real>0.7921569</real>
 		<key>Green Component</key>
-		<real>0.9411765</real>
+		<real>0.7921569</real>
 		<key>Red Component</key>
-		<real>0.9411765</real>
+		<real>0.7921569</real>
 	</dict>
 	<key>Cursor Color</key>
 	<dict>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>0.9411765</real>
+		<real>0.7921569</real>
 		<key>Green Component</key>
-		<real>0.9411765</real>
+		<real>0.7921569</real>
 		<key>Red Component</key>
-		<real>0.9411765</real>
+		<real>0.7921569</real>
 	</dict>
 	<key>Cursor Text Color</key>
 	<dict>
@@ -233,22 +233,22 @@
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>0.9411765</real>
+		<real>0.7921569</real>
 		<key>Green Component</key>
-		<real>0.9411765</real>
+		<real>0.7921569</real>
 		<key>Red Component</key>
-		<real>0.9411765</real>
+		<real>0.7921569</real>
 	</dict>
 	<key>Selected Text Color</key>
 	<dict>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>0.9411765</real>
+		<real>0.7921569</real>
 		<key>Green Component</key>
-		<real>0.9411765</real>
+		<real>0.7921569</real>
 		<key>Red Component</key>
-		<real>0.9411765</real>
+		<real>0.7921569</real>
 	</dict>
 	<key>Selection Color</key>
 	<dict>
