@@ -7,5 +7,5 @@ legacy-256:
   output: itermcolors
 
 default-256:
-  extension: -256.itermcolors
+  extension: .itermcolors
   output: itermcolors-256
