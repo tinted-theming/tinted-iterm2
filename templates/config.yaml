@@ -1,11 +1,19 @@
-default:
+base16:
   extension: .itermcolors
   output: itermcolors
+  supported-system: [base16]
 
 legacy-256:
   extension: -256.itermcolors
   output: itermcolors
+  supported-system: [base16]
 
-default-256:
+base16-256:
   extension: .itermcolors
   output: itermcolors-256
+  supported-system: [base16]
+
+base24-256:
+  extension: .itermcolors
+  output: itermcolors-256
+  supported-system: [base24]

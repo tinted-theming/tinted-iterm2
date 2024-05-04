@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-    Base16 Green Screen-256
+    Base16 Green Screen
     Scheme author: Chris Kempson (http://chriskempson.com)
     Template author: Tinted Theming (https://github.com/tinted-theming)
     semanticClass: theme.base16.greenscreen
@@ -35,31 +35,31 @@
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>0</real>
+		<real></real>
 		<key>Green Component</key>
-		<real>0.73333335</real>
+		<real></real>
 		<key>Red Component</key>
-		<real>0</real>
+		<real></real>
 	</dict>
 	<key>Ansi 11 Color</key>
 	<dict>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>0</real>
+		<real></real>
 		<key>Green Component</key>
-		<real>0.46666667</real>
+		<real></real>
 		<key>Red Component</key>
-		<real>0</real>
+		<real></real>
 	</dict>
 	<key>Ansi 12 Color</key>
 	<dict>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>0</real>
+		<real></real>
 		<key>Green Component</key>
-		<real>0.6</real>
+		<real></real>
 		<key>Red Component</key>
 		<real>0</real>
 	</dict>
@@ -68,22 +68,22 @@
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>0</real>
+		<real></real>
 		<key>Green Component</key>
-		<real>0.73333335</real>
+		<real></real>
 		<key>Red Component</key>
-		<real>0</real>
+		<real></real>
 	</dict>
 	<key>Ansi 14 Color</key>
 	<dict>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>0</real>
+		<real></real>
 		<key>Green Component</key>
-		<real>0.33333334</real>
+		<real></real>
 		<key>Red Component</key>
-		<real>0</real>
+		<real></real>
 	</dict>
 	<key>Ansi 15 Color</key>
 	<dict>
@@ -114,7 +114,7 @@
 		<key>Blue Component</key>
 		<real>0</real>
 		<key>Green Component</key>
-		<real>0.46666667</real>
+		<real>0.6</real>
 		<key>Red Component</key>
 		<real>0</real>
 	</dict>
@@ -158,7 +158,7 @@
 		<key>Blue Component</key>
 		<real>0</real>
 		<key>Green Component</key>
-		<real>0.73333335</real>
+		<real>0.8666667</real>
 		<key>Red Component</key>
 		<real>0</real>
 	</dict>
@@ -169,7 +169,7 @@
 		<key>Blue Component</key>
 		<real>0</real>
 		<key>Green Component</key>
-		<real>0.46666667</real>
+		<real>0.33333334</real>
 		<key>Red Component</key>
 		<real>0</real>
 	</dict>
@@ -178,11 +178,11 @@
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>0</real>
+		<real></real>
 		<key>Green Component</key>
-		<real>0.46666667</real>
+		<real></real>
 		<key>Red Component</key>
-		<real>0</real>
+		<real></real>
 	</dict>
 	<key>Background Color</key>
 	<dict>

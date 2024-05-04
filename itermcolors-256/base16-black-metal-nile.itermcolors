@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-    Base16 Black Metal (Nile)-256
+    Base16 Black Metal (Nile)
     Scheme author: metalelf0 (https://github.com/metalelf0)
     Template author: Tinted Theming (https://github.com/tinted-theming)
     semanticClass: theme.base16.black-metal-nile
@@ -35,55 +35,55 @@
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>0.53333336</real>
+		<real></real>
 		<key>Green Component</key>
-		<real>0.6</real>
+		<real></real>
 		<key>Red Component</key>
-		<real>0.6666667</real>
+		<real></real>
 	</dict>
 	<key>Ansi 11 Color</key>
 	<dict>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>0.33333334</real>
+		<real></real>
 		<key>Green Component</key>
-		<real>0.46666667</real>
+		<real></real>
 		<key>Red Component</key>
-		<real>0.46666667</real>
+		<real></real>
 	</dict>
 	<key>Ansi 12 Color</key>
 	<dict>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>0.53333336</real>
+		<real></real>
 		<key>Green Component</key>
-		<real>0.53333336</real>
+		<real></real>
 		<key>Red Component</key>
-		<real>0.53333336</real>
+		<real>0.6</real>
 	</dict>
 	<key>Ansi 13 Color</key>
 	<dict>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>0.6</real>
+		<real></real>
 		<key>Green Component</key>
-		<real>0.6</real>
+		<real></real>
 		<key>Red Component</key>
-		<real>0.6</real>
+		<real></real>
 	</dict>
 	<key>Ansi 14 Color</key>
 	<dict>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>0.6666667</real>
+		<real></real>
 		<key>Green Component</key>
-		<real>0.6666667</real>
+		<real></real>
 		<key>Red Component</key>
-		<real>0.6666667</real>
+		<real></real>
 	</dict>
 	<key>Ansi 15 Color</key>
 	<dict>
@@ -112,11 +112,11 @@
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>0.33333334</real>
+		<real>0.6666667</real>
 		<key>Green Component</key>
-		<real>0.46666667</real>
+		<real>0.6666667</real>
 		<key>Red Component</key>
-		<real>0.46666667</real>
+		<real>0.6666667</real>
 	</dict>
 	<key>Ansi 4 Color</key>
 	<dict>
@@ -156,33 +156,33 @@
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>0.75686276</real>
+		<real>0.6</real>
 		<key>Green Component</key>
-		<real>0.75686276</real>
+		<real>0.6</real>
 		<key>Red Component</key>
-		<real>0.75686276</real>
+		<real>0.6</real>
 	</dict>
 	<key>Ansi 8 Color</key>
 	<dict>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>0.2</real>
+		<real>0.13333334</real>
 		<key>Green Component</key>
-		<real>0.2</real>
+		<real>0.13333334</real>
 		<key>Red Component</key>
-		<real>0.2</real>
+		<real>0.13333334</real>
 	</dict>
 	<key>Ansi 9 Color</key>
 	<dict>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Blue Component</key>
-		<real>0.5294118</real>
+		<real></real>
 		<key>Green Component</key>
-		<real>0.5294118</real>
+		<real></real>
 		<key>Red Component</key>
-		<real>0.37254903</real>
+		<real></real>
 	</dict>
 	<key>Background Color</key>
 	<dict>
