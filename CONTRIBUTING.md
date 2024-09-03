@@ -13,19 +13,19 @@ automatically.
 ### Usage for template editing
 
 1. Install [tinted-builder-rust]
-1. `tinted-builder-rust build path/to/base16-iterm2`
+1. `tinted-builder-rust build path/to/tinted-iterm2`
 
 ### Usage for adding or editing a colorscheme
 
-1. Clone the base16-iterm2
+1. Clone the tinted-iterm2
 1. Clone [tinted-schemes]
 1. Install [tinted-builder-rust]
-1. Execute `tinted-builder-rust build base16-iterm2` with 
-  - `--schemes-dir` arg - provide `/path/to/base16-scehemes`
+1. Execute `tinted-builder-rust build tinted-iterm2` with 
+  - `--schemes-dir` arg - provide `/path/to/schemes`
 
 ```shell
-tinted-builder-rust build /path/to/base16-iterm2 \
-  --schemes-dir /path/to/base16-schemes
+tinted-builder-rust build /path/to/tinted-iterm2 \
+  --schemes-dir /path/to/schemes
 ```
 
 If you have more questions about [tinted-builder-rust], have a look at
