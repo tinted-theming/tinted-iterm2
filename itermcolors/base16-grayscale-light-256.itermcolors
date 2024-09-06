@@ -3,7 +3,7 @@
     base16 Grayscale Light-256
     Scheme author: Alexandre Gavioli (https://github.com/Alexx2/)
     Template author: Tinted Theming (https://github.com/tinted-theming)
-    semanticClass: theme.base16.grayscale-light
+    semanticClass: theme.base16.grayscale-light-256
 -->
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">

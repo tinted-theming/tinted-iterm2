@@ -3,7 +3,7 @@
     base16 Classic Dark-256
     Scheme author: Jason Heeris (http://heeris.id.au)
     Template author: Tinted Theming (https://github.com/tinted-theming)
-    semanticClass: theme.base16.classic-dark
+    semanticClass: theme.base16.classic-dark-256
 -->
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">

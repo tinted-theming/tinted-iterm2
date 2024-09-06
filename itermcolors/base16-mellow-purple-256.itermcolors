@@ -3,7 +3,7 @@
     base16 Mellow Purple-256
     Scheme author: gidsi
     Template author: Tinted Theming (https://github.com/tinted-theming)
-    semanticClass: theme.base16.mellow-purple
+    semanticClass: theme.base16.mellow-purple-256
 -->
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">

@@ -3,7 +3,7 @@
     base16 DanQing-256
     Scheme author: Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)
     Template author: Tinted Theming (https://github.com/tinted-theming)
-    semanticClass: theme.base16.danqing
+    semanticClass: theme.base16.danqing-256
 -->
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">

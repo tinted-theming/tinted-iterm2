@@ -3,7 +3,7 @@
     base16 Spacemacs-256
     Scheme author: Nasser Alshammari (https://github.com/nashamri/spacemacs-theme)
     Template author: Tinted Theming (https://github.com/tinted-theming)
-    semanticClass: theme.base16.spacemacs
+    semanticClass: theme.base16.spacemacs-256
 -->
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">

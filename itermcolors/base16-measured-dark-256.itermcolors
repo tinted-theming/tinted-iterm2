@@ -3,7 +3,7 @@
     base16 Measured Dark-256
     Scheme author: Measured (https://measured.co)
     Template author: Tinted Theming (https://github.com/tinted-theming)
-    semanticClass: theme.base16.measured-dark
+    semanticClass: theme.base16.measured-dark-256
 -->
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">

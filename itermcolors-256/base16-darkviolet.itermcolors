@@ -3,7 +3,7 @@
     base16 Dark Violet-256
     Scheme author: ruler501 (https://github.com/ruler501/base16-darkviolet)
     Template author: Tinted Theming (https://github.com/tinted-theming)
-    semanticClass: theme.base16.darkviolet
+    semanticClass: theme.base16.darkviolet-256
 -->
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
