@@ -7,3 +7,13 @@ base24:
   extension: .itermcolors
   output: itermcolors
   supported-systems: [base24]
+
+scripts-base16:
+  extension: .sh
+  output: scripts
+  supported-systems: [base16]
+
+scripts-base24:
+  extension: .sh
+  output: scripts
+  supported-systems: [base24]
