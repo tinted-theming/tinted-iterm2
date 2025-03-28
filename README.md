@@ -1,5 +1,11 @@
 # Tinted iTerm2
 
+**Deprecated**: tinted-iterm2 and all the other Tinted Theming
+terminal template repositories have moved to a single [Tinted
+Terminal](https://github.com/tinted-theming/tinted-terminal) repository.
+
+---
+
 [Base16] and [Base24] themes for iTerm2. See [Tinted Theming] for more
 information.  
 
